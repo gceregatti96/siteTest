@@ -1,9 +1,9 @@
 import React from "react";
 
 const products = [
-  { id: 1, name: "Smartphone X", price: 2999.99 },
-  { id: 2, name: "Laptop Pro", price: 5999.99 },
-  { id: 3, name: "Fone Bluetooth", price: 199.99 },
+  { id: 1, name: "Iphone 13", price: 2999.99 },
+  { id: 2, name: "Galaxy s23", price: 5999.99 },
+  { id: 3, name: "Iphone 16", price: 8000.00 },
 ];
 
 const Product = ({ product }) => {
